@@ -373,7 +373,11 @@ a:hover{
         font-size: 45px;
         text-align: center;
     }
-
+}
+@media(max-width:520px){
+    .footer_contact_link{
+        margin: 0;
+    }
 }
 
 /* Media end */
