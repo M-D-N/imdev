@@ -375,6 +375,11 @@ a:hover{
     }
 
 }
+@media(max-width:520px){
+    .footer_contact_link{
+        margin: 0;
+    }
+}
 
 /* Media end */
 /* ******************* */
